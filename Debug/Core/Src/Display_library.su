@@ -1,0 +1,9 @@
+Display_library.c:22:6:lcd_time	8	static
+Display_library.c:36:6:lcd_init	8	static
+Display_library.c:56:6:lcd_clear	8	static
+Display_library.c:64:6:lcd_cmd	16	static
+Display_library.c:82:6:lcd_char	16	static
+Display_library.c:111:6:lcd_string	16	static
+Display_library.c:136:6:lcd_string_pos	16	static
+Display_library.c:148:6:lcd_custom_char	24	static
+Display_library.c:163:6:lcd_default_custom_char	8	static
